@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def validUTF8(data):
     # Initialize a variable `i` to 0, which will be used as an index to iterate through the `data` list.
     i = 0
