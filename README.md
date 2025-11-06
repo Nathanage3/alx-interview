@@ -9,7 +9,6 @@ This section highlights my proficiency in core computer science fundamentals, da
 
 Implements an algorithm to generate Pascal's Triangle, demonstrating efficient list manipulation and nested loops.
 
-
 <br />
 
 
