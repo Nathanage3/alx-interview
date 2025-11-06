@@ -11,16 +11,12 @@ Implements an algorithm to generate Pascal's Triangle, demonstrating efficient l
 
 <br />
 
-
 0x01-lockboxes&emsp;&emsp;&emsp;Graph Traversal / Logic
 <br />
-
 
 Solves a logic puzzle that models a directed graph, determining if all "boxes" (nodes) can be visited starting from the first box.
 
 <br />
-
-
 
 0x02-minimum_operations&emsp;&emsp;&emsp;Dynamic Programming
 
@@ -30,17 +26,12 @@ Finds the fewest number of operations to achieve a target number using "Copy All
 
 <br />
 
-
-
 0x04-utf8_validation&emsp;&emsp;&emsp;Bit Manipulation
-
 
 <br />
 Develops a method to validate if a given dataset represents a valid UTF-8 encoding, requiring direct manipulation of data at the bit level.
 
 <br />
-
-
 
 0x05-nqueens&emsp;&emsp;&emsp;Backtracking Algorithm
 <br />
@@ -50,17 +41,12 @@ Solves the N-Queens puzzle by placing N chess queens on an N×N chessboard so th
 
 <br />
 
-
-
 0x0G-rotate_2d_matrix&emsp;&emsp;&emsp;Matrix Manipulation (In-Place)
 
 <br />
 
 Implements an algorithm to rotate a 2D matrix by 90 degrees in-place, demonstrating efficient memory usage and spatial reasoning.
 <br />
-
-
-
 
 0x08-making_change&emsp;&emsp;&emsp;Dynamic Programming / Greedy Algorithms
 <br />
