@@ -5,7 +5,6 @@ This section highlights my proficiency in core computer science fundamentals, da
 **Project Directory** &emsp;&emsp;**Concept / Skill Demonstrated**
 
 0x00-pascal_triangle&emsp;&emsp;Algorithmic Thinking & 2D Arrays
-
 <br />
 
 Implements an algorithm to generate Pascal's Triangle, demonstrating efficient list manipulation and nested loops.
